@@ -17,8 +17,8 @@ int main(void)
     // std::endl sert de saut à la ligne et à flush
     // (vider immédiatement) stdout
     while (std::cin >> input && input > 0)
-        std::cout << input <<
-            (is_prime(input) ? " est premier" : " n'est pas premier") <<
+        std::cout << input << " is a prime " <<
+            (is_prime(input) ? "True" : "False") <<
             std::endl;
     return 0;
 }
