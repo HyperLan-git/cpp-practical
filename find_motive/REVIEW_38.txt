@@ -1,0 +1,5 @@
+Il semble y'avoir une incompréhension du sujet qui dit
+"Words containing a motive more than once are only counted once"
+Il aurait fallu lire le fichier mot par mot et find une seule fois sur chaque mot
+A l'heure actuelle, votre programme donne le nombre total d'apparitions du pattern
+Autrement la lecture du fichier et la compréhension du pattern matching semble aquise
