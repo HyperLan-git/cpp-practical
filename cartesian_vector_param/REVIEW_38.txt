@@ -1,0 +1,4 @@
+pas de binaires dans le git svp
+j'aurais mis le code du vecteur dans un vecteur.c personnellement
+bonne utilisation de l'opérateur ternaire
+Bon code fonctionnel et propre, juste je ne comprend pas comment on pouvait implémenter une addition entre un vecteur et un scalaire ce qui est une aberration mathématique
