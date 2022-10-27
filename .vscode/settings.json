@@ -62,6 +62,7 @@
         "fstream": "cpp",
         "strstream": "cpp",
         "bitset": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "cassert": "cpp"
     }
 }
