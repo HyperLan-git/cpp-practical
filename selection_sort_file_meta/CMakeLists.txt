@@ -5,6 +5,6 @@ project(TPCPP)
 
 add_executable(main main.cc)
 
-add_library(sources SHARED main.cc)
+add_library(sources SHARED main.cc sort_file.cpp)
 
 target_link_libraries(main sources)
