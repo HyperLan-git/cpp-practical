@@ -64,5 +64,6 @@
         "bitset": "cpp",
         "regex": "cpp",
         "cassert": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/selection_sort"
 }
